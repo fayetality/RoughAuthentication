@@ -1,0 +1,7 @@
+#content {
+	float: left;
+	width: 600px;
+	border: 1px solid #f00;
+	padding: 10px;
+	line-height: 36px;
+}
